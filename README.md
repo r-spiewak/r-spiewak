@@ -32,8 +32,8 @@ My research areas have included the following:
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"#gh-light-mode-only title="LaTeX" alt="LaTeX" width="60" height="40" style="background-color:white;"/>&nbsp;-->
   <img src=./Icons/latex-lightmode.svg#gh-light-mode-only title="LaTeX" alt="LaTeX" width="60" height="40" style="background-color:white;"/>&nbsp;
   <img src=./Icons/latex-darkmode.svg#gh-dark-mode-only title="LaTeX" alt="LaTeX" width="60" height="40" style="background-color:white;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40" />&nbsp;
 </div>
@@ -46,13 +46,16 @@ javascript?
 r?
 ruby?
 vscode?
+Sublime text?
+
+Maybe organize these like https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/RResabala2015.md ? Nah, too much effort, and would need to add a bunch more of these to make it worthwhile.
 -->
 
 To solve the mathematical equations I develop which govern the given research phenomena, I use optimization techniques, Machine Learning architectures (Naive Bayes, Decision Trees and Random Forests, XGBoost, and LLMs) and frameworks (such as PyTorch, TensorFlow, and Scikit-learn), and computational systems solvers such as CFD (OpenFOAM) and FEA (Abaqus, COMSOL), as well as custom solvers, scripts, and programs.
 
 I have extensive experience with writing, debugging, and running code in Python, MATLAB, and C/C++, including for parallel computing with MPI on Linux high-performance computers (HPC) and on cloud platforms such as AWS.
 
-Much of my work is *hidden* in private organizational repositories. If you want to see samples, send me a message or an email and I'm happy to share what I can. Some projects I can easily share are listed here:
+Much of my work is *hidden* in private organizational repositories. If you want to see samples, send me a message and I'm happy to share what I can. Some projects I can easily share are listed here:
 * [**Fibrin Tension**](https://github.com/r-spiewak/fibrin-tension): Derived from first principles differential equations governing the origins of inherent tension in fibrin fiber networks from the molecular level to the network material level, inclduding polymerization, geometric structure, and relaxation kinematics, in `MATLAB` <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="20" height="20"/>.
 * [**Sync Project**](https://github.com/r-spiewak/sync_project): Forecasting and Function-fitting package in `Python` <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>.
 * [**Kinetic Project**](https://github.com/r-spiewak/kinetic_project): An example of Graph Theory and Non-Continuous Optimizations work in `Python` <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>.
