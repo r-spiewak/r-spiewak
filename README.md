@@ -3,7 +3,7 @@
 I am a Computational and Theoretical Physicist specializing in network materials, structures, and systems. I use optimization techniques, ML architectures and frameworks, commercial computational systems solvers, and custom solvers, scripts, and programs. 
 
 My research areas have included the following:
- - Creation of Agentic orchestration system for heliophysics, through Frontier Development Lab's [Heliolab](heliolab.ai)
+ - Creation of Agentic orchestration system for heliophysics, through Frontier Development Lab's [Heliolab](www.heliolab.ai)
  - Data pipeline creation, presence detection, machine learning compilers, 3D reconstruction, object detection, face detection, and facial recognition at Samsung SmartThings
  - Deriving and simulating mechanical properties of fibrous network materials at the University of Pennsylvania
  - Simulations of current distribution and cascading failures of electrical power grid networks at Yeshiva University.
