@@ -1,6 +1,6 @@
 ## About Me:
 
-I am a Computational and Theoretical Physicist specializing in network materials, structures, and systems. I use optimization techniques, ML architectures and frameworks, commercial computational systems solvers, and custom solvers, scripts, and programs. 
+I am a Computational Physicist specializing in network materials, structures, and systems. I use optimization techniques, ML architectures and frameworks, commercial computational systems solvers, and custom solvers, scripts, and programs. 
 
 My research areas have included the following:
  - Creation of Agentic orchestration system for heliophysics, through Frontier Development Lab's [Heliolab](https://fdl.ai/heliolab)
